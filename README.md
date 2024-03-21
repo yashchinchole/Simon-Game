@@ -1,20 +1,37 @@
 # Simon Game
 
-![Simon Game](https://github.com/yashchinchole/Simon-Game/blob/main/assets/images/game.png)
-
-## Description
-
-The Simon Game is a classic memory game where players have to repeat a sequence of colors and sounds. This project is implemented using HTML, CSS, and JavaScript.
+This project is a classic Simon game implementation where players must remember and repeat sequences of colors.
 
 ## Live Demo
 
 You can play the Simon Game online by visiting the following link:
-[Play Simon Game](https://yashchinchole.github.io/Simon-Game/)
+[Simon Game](https://yashchinchole.github.io/Simon-Game/)
 
-## Installation
+## Technologies Used
 
-To run the game locally, you can clone this repository using the following command:
+- HTML
+- CSS
+- JavaScript
+- jQuery (optional)
 
-```bash
-git clone https://github.com/yashchinchole/Simon-Game.git
-```
+## Features
+
+- Four colored buttons representing different tones.
+- Start button to initiate the game.
+- Strict mode for more challenging gameplay.
+- Visual and audio feedback for correct and incorrect moves.
+- Increasing difficulty level with each successful round.
+
+## Setup
+
+1. Clone this repository or download the source code.
+2. Open index.html in your web browser.
+
+## Screenshots
+
+![Simon Game](./assets/images/game.png)
+
+## Credits
+
+- Icons: [Font Awesome](https://fontawesome.com/)
+- Inspiration: [Simon Electronic Game](<https://en.wikipedia.org/wiki/Simon_(game)>)
