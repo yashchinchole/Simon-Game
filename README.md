@@ -1,5 +1,7 @@
 # Simon Game
 
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/Simon-Game)
+
 This project is a classic Simon game implementation where players must remember and repeat sequences of colors.
 
 ## Live Demo
